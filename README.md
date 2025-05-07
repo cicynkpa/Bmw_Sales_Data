@@ -1,16 +1,15 @@
 ### Bmw_Sales_Data
-Analyzing bmw cars model sales trend over time by different regions and their countries.
- ### problem statements 
-- revenue trend.
+Analyzing bmw cars model sales trend by it distinct sales channel, regions and their countries.
+ ### Problem statements 
 - To identify top selling model.
 - To identify top performing sale channel.
 - To identify top performing country.
 - To make Data-Driven Recommendations: Based on the findings, develop recommendations for marketing, models development, and distribution strategies to maximize and improve sales.
- ### tools used
+ ### Tools used
  PowerBi.
  ### Data source
  Pluralcode Data Analytics Project.
- ### processes.
+ ### Processes.
  - Data extraction.
  - Data preparation on power query editor.
  - Loading data into powerbi desktop.
