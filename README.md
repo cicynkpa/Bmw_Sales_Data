@@ -1,5 +1,5 @@
 ### Bmw_Sales_Data
-Analyzing bmw cars model sales trend by it distinct sales channels, regions and their countries.
+Analyzing bmw car models sales trend by it distinct sales channels, regions and their countries.
  ### Problem statements 
 - To identify top selling model.
 - To identify top performing sale channel.
