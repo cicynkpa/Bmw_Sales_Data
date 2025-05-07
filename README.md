@@ -19,11 +19,11 @@ Analyzing bmw cars model sales trend over time by different regions and their co
  - created new dax date.
  - created visual for reports and dashoard.
  ### Key insight
-  ####  Models
+  ####  Model
  - BMW Z4 is the best selling car model with total revenue of $17,061,083.00 and total quantity sold of 666, its top selling year was United States, 2021.
  - BMW 3 Series is the second best selling car model with total revenue of  $16,175,929.00 and total quantity sold of 609,  its top selling year was Kenya, 2022.
  - BMW 5 Series is the least selling car model with total revenue of $12,911,811.00 and total quantity sold of 530, its top  selling country and year is Mexico, 2022.
- #### Channels
+ #### Channel
  - Wholesale channel is the top selling sales channel with 44.09% generated a total revenue of $165.791,573.00, While 
  - Dealership channel is the second best sales channel with 33.50%, generated a total revenue of $125,976.078.00.
  - Online channel record the lowest with 22.41% generated a total revenue of $84,287,574.00.
@@ -39,9 +39,21 @@ Analyzing bmw cars model sales trend over time by different regions and their co
  ### Visuals
  
 ![Screenshot 2025-05-07 010516](https://github.com/user-attachments/assets/76c37f9c-faaf-4f9c-b14b-24738174d7d7)
+
+![Screenshot 2025-05-07 010015](https://github.com/user-attachments/assets/bd57a8df-acd4-4d4a-b6fd-bec1ba37a780)
+
 ![Screenshot 2025-05-07 010038](https://github.com/user-attachments/assets/c86a40d8-cb61-45f5-92c0-7d972c9fab13)
-![Screenshot 2025-05-07 010516](https://github.com/user-attachments/assets/9c438da1-706e-4abf-ba91-1941dc03c021)
+
  ### Conclusion and recommendation
- - 
-
-
+  #### Model Strategy
+ - Invest more in top models (BMW Z4 and 3 Series)—promote these in markets like the U.S. and Kenya with tailored marketing campaigns.
+ - Reassess the positioning of BMW 5 Series—evaluate pricing, customer feedback, and competition in markets like Mexico.
+  #### Channel Strategy
+ - Double down on wholesale by strengthening distributor relationships and volume-based incentives.
+ - Enhance dealership experiences to maintain in-person engagement and support premium brand positioning.
+ - Improve online sales presence by Building trust (e.g., virtual showrooms, customer reviews, flexible return policies),
+ - Enhancing mobile experience,
+ - Offering online-exclusive deals.
+  #### Market Expansion
+ - Focus on high-growth regions: Continue expanding in Africa and South America with localized strategies.
+ - Investigate underperforming countries like Japan and the UK to understand barriers (e.g., regulations, consumer behavior).
